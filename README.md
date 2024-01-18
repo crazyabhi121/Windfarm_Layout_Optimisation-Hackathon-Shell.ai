@@ -6,30 +6,30 @@ In this hackathon, the challenge is to optimize the placement of Nturb , 50 wind
 - Perimeter Constraint --> All the turbines must be located inside the perimeter of the farm, while maintaining a minimum clearance of 50 meters from the farm boundary.
 - Proximity Constraint --> The distance between any two turbines must be larger than a given security threshold to ensure a longer lifetime of the turbine rotors. This minimum distance between two turbines is called Dmin and needs to be 400 m.
 
-![Hackathon](ttps://github.com/crazyabhi121/Windfarm_Layout_Optimisation-Hackathon-Shell.ai/blob/main/shell_ai_Hackthon.png)
+![Hackathon](https://github.com/crazyabhi121/Windfarm_Layout_Optimisation-Hackathon-Shell.ai/blob/main/shell_ai_Hackthon.png)
 
 
 
 ## Reward
 
-![Reward](ttps://github.com/crazyabhi121/Windfarm_Layout_Optimisation-Hackathon-Shell.ai/blob/main/reward.png)
+![Reward](https://github.com/crazyabhi121/Windfarm_Layout_Optimisation-Hackathon-Shell.ai/blob/main/reward.png)
 
 
 ## Competition Result
 - We are glad to state that our Team named as TEAM-7 won the fourth position on Leader Board and First Position under Special University Edition(SPE) from South Zone with the score of 544.70305 .
 
 
-![Result](ttps://github.com/crazyabhi121/Windfarm_Layout_Optimisation-Hackathon-Shell.ai/blob/main/private_LeaderBoard.png)
+![Result](https://github.com/crazyabhi121/Windfarm_Layout_Optimisation-Hackathon-Shell.ai/blob/main/private_LeaderBoard.png)
 
 ## Award
 - Finally we got first rank in the south region and got 50k  price.
 
 
-![Award](ttps://github.com/crazyabhi121/Windfarm_Layout_Optimisation-Hackathon-Shell.ai/blob/main/results.png)
+![Award](https://github.com/crazyabhi121/Windfarm_Layout_Optimisation-Hackathon-Shell.ai/blob/main/results.png)
 ## Pitch Video
 If you are excited to see the videos of our work check the links below :
 
 
-[![Youtube Video](https://github.com/crazyabhi121/Windfarm_Layout_Optimisation-Hackathon-Shell.ai/blob/main/youtube.png)](https://youtu.be/Re0xdlgJrRg)
+[![Youtube Video](hhttps://github.com/crazyabhi121/Windfarm_Layout_Optimisation-Hackathon-Shell.ai/blob/main/youtube.png)](https://youtu.be/Re0xdlgJrRg)
 
 
