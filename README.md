@@ -30,6 +30,6 @@ In this hackathon, the challenge is to optimize the placement of Nturb , 50 wind
 If you are excited to see the videos of our work check the links below :
 
 
-[![Youtube Video](hhttps://github.com/crazyabhi121/Windfarm_Layout_Optimisation-Hackathon-Shell.ai/blob/main/youtube.png)](https://youtu.be/Re0xdlgJrRg)
+[![Youtube Video](hhttps://github.com/crazyabhi121/Windfarm_Layout_Optimisation-Hackathon-Shell.ai/blob/main/youtube.png)](https://youtu.be/kJB6HY9MEsQ?si=oaiRYqUZ8Dr5fWH8)
 
 
